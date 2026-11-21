@@ -14,7 +14,7 @@
 
 **CarPlay and Android Auto in one app for Android car head units in general, with dedicated support and tuning for the Changan CS75 Plus 2023 head unit.**
 
-[![Release](https://img.shields.io/github/v/release/0nezar0/carlink-releases?label=release)](https://github.com/0nezar0/carlink-releases/releases/latest/download/CarLink-CS75Plus2023-v1.6.apk)
+[![Release](https://img.shields.io/github/v/release/0nezar0/carlink-releases?label=release)](https://github.com/0nezar0/carlink-releases/releases/latest/download/CarLink-CS75Plus2023-v1.6.5.apk)
 [![License: AGPL-3.0](https://img.shields.io/badge/license-AGPL--3.0-blue)](https://github.com/F-e-n-y-x/CarLink/blob/main/LICENSE)
 [![Android](https://img.shields.io/badge/Android-car%20head%20units-3DDC84?logo=android&logoColor=white)](#المتطلبات)
 [![Languages](https://img.shields.io/badge/languages-11-8A2BE2)](#الميزات)
@@ -76,12 +76,13 @@
 3. بعد التثبيت، حدّث من داخل التطبيق: **الإعدادات › حول › التحقق من التحديثات**.
 4. إذا تبي تجرب النسخ التجريبية قبل الإصدار المستقر، فعّل **الإعدادات › حول › الحصول على نسخ تجريبية**.
 
-الإصدار الحالي للتجربة: [CS75 Plus 2023 v1.5](https://github.com/0nezar0/carlink-releases/releases/tag/v1.5). كل النسخ في [صفحة الإصدارات](https://github.com/0nezar0/carlink-releases/releases).
+الإصدار الحالي: [CS75 Plus 2023 v1.6.5](https://github.com/0nezar0/carlink-releases/releases/tag/v1.6.5). كل النسخ في [صفحة الإصدارات](https://github.com/0nezar0/carlink-releases/releases).
 
 ## الجديد
 
 | النسخة | الجديد |
 |---|---|
+| [CS75 Plus 2023 v1.6.5](https://github.com/0nezar0/carlink-releases/releases/tag/v1.6.5) | الإصدار العام الحالي: الهامش العلوي مطفي افتراضياً لشانجان CS75، وحوار إخفاء شريط الإشعارات عند اختيار السيارة، وقائمة كاملة للتطبيقات، والوضع الداكن والصوت عبر Bluetooth افتراضياً، وبلاغات المشاكل وبريد الدعم لهذه النسخة. ويشمل إصلاح نقطة اتصال السيارة IPv4 فقط من v1.6.4. |
 | [CS75 Plus 2023 v1.5](https://github.com/0nezar0/carlink-releases/releases/tag/v1.5) (تجريبي) | إصدار تجريبي يشمل لغات التطبيق وصفحة حالة الاتصال، والتحديث من داخل التطبيق مع خيار النسخ التجريبية. |
 | [CS75 Plus 2023 v1.4](https://github.com/0nezar0/carlink-releases/releases/tag/v1.4) (تجريبي) | 11 لغة مع اختيار اللغة من الإعدادات › عام › اللغة · صفحة «حالة الاتصال» المباشرة في الإعدادات › الاتصال والتشخيص. |
 | [CS75 Plus 2023 v1.2](https://github.com/0nezar0/carlink-releases/releases/tag/v1.2) | إصدار لاختبار التحديث من داخل التطبيق من v1.1. |
@@ -136,7 +137,7 @@ This build is based on [CarLink](https://github.com/F-e-n-y-x/CarLink) by **F-e-
 3. Later updates can be installed from **Settings › About › Check for updates**.
 4. To receive test builds, turn on **Settings › About › Get test versions**.
 
-The current test build is [CS75 Plus 2023 v1.5](https://github.com/0nezar0/carlink-releases/releases/tag/v1.5). All builds are on the [releases page](https://github.com/0nezar0/carlink-releases/releases).
+The current release is [CS75 Plus 2023 v1.6.5](https://github.com/0nezar0/carlink-releases/releases/tag/v1.6.5). All builds are on the [releases page](https://github.com/0nezar0/carlink-releases/releases).
 
 ### Contact
 
