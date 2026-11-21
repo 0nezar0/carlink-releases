@@ -20,7 +20,7 @@
 [![Languages](https://img.shields.io/badge/languages-11-8A2BE2)](#الميزات)
 
 [**التحميل / Download**](https://github.com/0nezar0/carlink-releases/releases) ·
-[الميزات](#الميزات) · [التثبيت والتحديث](#التثبيت-والتحديث) · [شكر وتقدير](#شكر-وتقدير) · [English](#english)
+[الميزات](#الميزات) · [التثبيت والتحديث](#التثبيت-والتحديث) · [التواصل](#التواصل) · [شكر وتقدير](#شكر-وتقدير) · [English](#english)
 
 </div>
 
@@ -87,6 +87,10 @@
 | [CS75 Plus 2023 v1.2](https://github.com/0nezar0/carlink-releases/releases/tag/v1.2) | إصدار لاختبار التحديث من داخل التطبيق من v1.1. |
 | [CS75 Plus 2023 v1.1](https://github.com/0nezar0/carlink-releases/releases/tag/v1.1) | تحديث من CarLink 1.0.17 للمطوّر F-e-n-y-x: طريقة اتصال «خادم الوحدة الرئيسية» · خفض الموسيقى وقت إرشادات CarPlay · أحجام واجهة أكبر · HEVC لـ CarPlay · زر الهامش العلوي لشانجان · شعار شانجان في CarPlay لشانجان فقط · تحسينات الوضع الخفيف وغيرها. |
 
+## التواصل
+
+للدعم أو الإبلاغ عن مشكلة: [مسائل GitHub](https://github.com/0nezar0/carlink-releases/issues) أو البريد [alhazmi.n.car@gmail.com](mailto:alhazmi.n.car@gmail.com). للمشاكل الأمنية راسل البريد نفسه، ولا تفتح مسألة عامة.
+
 ## شكر وتقدير
 
 مبنية على [CarLink](https://github.com/F-e-n-y-x/CarLink) للمطوّر **F-e-n-y-x**، مع شكر خاص له على هذا العمل الرائع، وعلى مشروعَي [DiPlay](https://github.com/shihabal3amri/DiPlay) (CarPlay) و[DiAuto](https://github.com/shihabal3amri/DiAuto) / Open Headunit (Android Auto). الرخص والشكر موجودة داخل التطبيق في «حول CarLink».
@@ -133,6 +137,10 @@ This build is based on [CarLink](https://github.com/F-e-n-y-x/CarLink) by **F-e-
 4. To receive test builds, turn on **Settings › About › Get test versions**.
 
 The current test build is [CS75 Plus 2023 v1.5](https://github.com/0nezar0/carlink-releases/releases/tag/v1.5). All builds are on the [releases page](https://github.com/0nezar0/carlink-releases/releases).
+
+### Contact
+
+For support or to report a problem, use [GitHub issues](https://github.com/0nezar0/carlink-releases/issues) or email [alhazmi.n.car@gmail.com](mailto:alhazmi.n.car@gmail.com). For a security problem, write to that address privately; do not open a public issue.
 
 ### Credits
 

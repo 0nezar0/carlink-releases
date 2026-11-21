@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Email the maintainer
+    url: mailto:alhazmi.n.car@gmail.com
+    about: Support and private security reports for this CS75 Plus build (alhazmi.n.car@gmail.com).
+  - name: Report a security vulnerability
+    url: mailto:alhazmi.n.car@gmail.com
+    about: Please report security problems privately by email, not as a public issue.
