@@ -24,6 +24,12 @@
 
 </div>
 
+## التحميل | Downloads
+
+افتح [أحدث إصدار منشور](https://github.com/0nezar0/carlink-releases/releases/latest)، ثم نزّل ملف APK من **Assets**. بجانبه ملف SHA-256 للتحقق من سلامة التنزيل. الكود المصدري العام متوفر في [CarLink-Changan](https://github.com/0nezar0/CarLink-Changan).
+
+Open the [latest published release](https://github.com/0nezar0/carlink-releases/releases/latest) and download the APK from **Assets**. The public source is in [CarLink-Changan](https://github.com/0nezar0/CarLink-Changan).
+
 <div dir="rtl">
 
 ركّب CarLink على شاشة السيارة العاملة بنظام أندرويد، ووصّل جوالك بالسلك أو لاسلكياً: **الآيفون يشتغل CarPlay** و**جوال الأندرويد يشتغل Android Auto**، والتطبيق يعرف نوع الجوال لحاله.
